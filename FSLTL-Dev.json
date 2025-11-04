@@ -566,7 +566,7 @@
                             "url": " https://github.com/FSLiveTrafficLiveries/base/releases/download/1.5/",
                             "isExperimental": true,
                             "releaseModel": {
-                                "type": "CDN"
+                                "type": "githubRelease"
                             },
                             "description": "Pre-release unstable release of the aircraft models, liveries and VMR file."
                         }
