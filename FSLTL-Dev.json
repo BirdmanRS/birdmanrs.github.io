@@ -563,7 +563,7 @@
                         {
                             "name": "PreRelease",
                             "key": "test",
-                            "url": " https://github.com/FSLiveTrafficLiveries/base/releases/download/pre-release/",
+                            "url": "https://github.com/FSLiveTrafficLiveries/base/releases/download/pre-release/",
                             "isExperimental": true,
                             "releaseModel": {
                                 "type": "CDN"
