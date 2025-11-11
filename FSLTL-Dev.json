@@ -609,7 +609,18 @@
                                 "type": "fragmenter"
                             },
                             "description": "Experimental Release that includes features that are not yet ready for stable release.\n\nYou can provide feedback on these new features in the FSLTL Discord.\n\nNo support is offered for issues with this release, new FSLTL users should use stable."
+                        },
+                        {
+                            "name": "Pre-Release",
+                            "key": "pre-release",
+                            "url": "https://github.com/FSLiveTrafficLiveries/FSLTL_Injector_Releases/releases/download/pre-release/",
+                            "isExperimental": false,
+                            "releaseModel": {
+                                "type": "fragmenter"
+                            },
+                            "description": "Pre-Release version of FSLTL Traffic Injector."
                         }
+
                     ],
                     "backgroundService": {
                         "executableFileBasename": "fsltl-trafficinjector",
