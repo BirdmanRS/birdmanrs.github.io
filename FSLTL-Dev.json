@@ -613,7 +613,7 @@
                         {
                             "name": "Pre-Release",
                             "key": "pre-release",
-                            "url": "https://github.com/FSLiveTrafficLiveries/FSLTL_Injector/releases/download/pre-release/",
+                            "url": "https://github.com/FSLiveTrafficLiveries/FSLTL_Injector_Releases/releases/download/pre-release/",
                             "isExperimental": false,
                             "releaseModel": {
                                 "type": "fragmenter"
