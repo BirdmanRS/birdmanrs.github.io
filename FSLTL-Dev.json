@@ -945,7 +945,7 @@
 						{
                             "name": "Pre-Release",
                             "key": "pre-release",
-                            "url": "https://github.com/FSLiveTrafficLiveries/FSLTL_Injector_Releases/releases/download/1.8.0/",
+                            "url": "https://github.com/FSLiveTrafficLiveries/FSLTL_Injector_Releases/releases/download/1.8.1/",
                             "isExperimental": false,
                             "releaseModel": {
                                 "type": "fragmenter"
@@ -1031,7 +1031,7 @@
 						{
                             "name": "Pre-Release",
                             "key": "pre-release",
-                            "url": "https://github.com/FSLiveTrafficLiveries/FSLTL_Injector_Releases/releases/download/1.8.0/",
+                            "url": "https://github.com/FSLiveTrafficLiveries/FSLTL_Injector_Releases/releases/download/1.8.1/",
                             "isExperimental": false,
                             "releaseModel": {
                                 "type": "fragmenter"
