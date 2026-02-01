@@ -943,15 +943,15 @@
 							"description": "FSLTL Traffic Injector for use on stable versions of MSFS 2020/2024.\n\nFollow the user guide at https://www.fslivetrafficliveries.com/user-guide/ before use."
 						},
 						{
-                            "name": "Pre-Release",
-                            "key": "pre-release",
-                            "url": "https://github.com/FSLiveTrafficLiveries/FSLTL_Injector_Releases/releases/download/1.8.1/",
-                            "isExperimental": false,
-                            "releaseModel": {
-                                "type": "fragmenter"
-                            },
-                            "description": "Pre-Release version of FSLTL Traffic Injector."
-                        }
+                            				"name": "Pre-Release",
+                            				"key": "pre-release",
+                            				"url": "https://github.com/FSLiveTrafficLiveries/FSLTL_Injector_Releases/releases/download/1.8.2/",
+                            				"isExperimental": false,
+                            				"releaseModel": {
+                                				"type": "fragmenter"
+                            				},
+                            				"description": "Pre-Release version of FSLTL Traffic Injector."
+                        			}
 					],
 					"backgroundService": {
 						"executableFileBasename": "fsltl-trafficinjector",
@@ -1029,15 +1029,15 @@
 							"description": "FSLTL Traffic Injector for use on stable versions of MSFS 2020/2024.\n\nFollow the user guide at https://www.fslivetrafficliveries.com/user-guide/ before use."
 						},
 						{
-                            "name": "Pre-Release",
-                            "key": "pre-release",
-                            "url": "https://github.com/FSLiveTrafficLiveries/FSLTL_Injector_Releases/releases/download/1.8.1/",
-                            "isExperimental": false,
-                            "releaseModel": {
-                                "type": "fragmenter"
-                            },
-                            "description": "Pre-Release version of FSLTL Traffic Injector."
-                        }
+                            				"name": "Pre-Release",
+                            				"key": "pre-release",
+                            				"url": "https://github.com/FSLiveTrafficLiveries/FSLTL_Injector_Releases/releases/download/1.8.2/",
+                            				"isExperimental": false,
+                            				"releaseModel": {
+                                				"type": "fragmenter"
+                            				},
+                            				"description": "Pre-Release version of FSLTL Traffic Injector."
+                        			}
 					],
 					"backgroundService": {
 						"executableFileBasename": "fsltl-trafficinjector",
