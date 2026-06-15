@@ -905,7 +905,7 @@
 						{
 							"name": "PreRelease",
 							"key": "test",
-							"url": "https://github.com/FSLiveTrafficLiveries/base/releases/download/pre-release/",
+							"url": "https://github.com/FSLiveTrafficLiveries/FSLTL_BaseModels_Releases/releases/latest/download/",
 							"isExperimental": true,
 							"releaseModel": {
 								"type": "CDN"
@@ -991,7 +991,7 @@
 						{
                             "name": "PreRelease",
                             "key": "test",
-                            "url": "https://github.com/FSLiveTrafficLiveries/base/releases/download/pre-release/",
+                            "url": "https://github.com/FSLiveTrafficLiveries/FSLTL_BaseModels_Releases/releases/latest/download/",
                             "isExperimental": true,
                             "releaseModel": {
                                 "type": "CDN"
