@@ -895,7 +895,7 @@
 						{
 							"name": "Stable",
 							"key": "release",
-							"url": "https://github.com/FSLiveTrafficLiveries/base/releases/latest/download/",
+							"url": "https://github.com/FSLiveTrafficLiveries/FSLTL_BaseModels_Releases/releases/latest/download/",
 							"isExperimental": false,
 							"releaseModel": {
 								"type": "CDN"
@@ -981,7 +981,7 @@
 						{
 							"name": "Stable",
 							"key": "release",
-							"url": "https://github.com/FSLiveTrafficLiveries/base/releases/latest/download/",
+							"url": "https://github.com/FSLiveTrafficLiveries/FSLTL_BaseModels_Releases/releases/latest/download/",
 							"isExperimental": false,
 							"releaseModel": {
 								"type": "CDN"
